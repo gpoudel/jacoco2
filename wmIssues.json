@@ -24,13 +24,7 @@
       "type": "BUG",
       "primaryLocation": {
         "message": "BUG - error message",
-        "filePath": "src/employee.js",
-        "textRange": {
-          "startLine": 18,
-          "endLine": 20,
-          "startColumn": 6,
-          "endColumn": 35
-        }
+        "filePath": "src/employee.js",       
       }
     },
    {
@@ -48,7 +42,7 @@
           "endColumn": 15
         }
       },
-      "effortMinutes": 15
+      "effortMinutes": 5
     }
 
   ]
