@@ -24,7 +24,13 @@
       "type": "BUG",
       "primaryLocation": {
         "message": "BUG - error message",
-        "filePath": "src/employee.js",       
+        "filePath": "src/employee.js",  
+         "textRange": {
+          "startLine": 19,
+          "endLine": 21,
+          "startColumn": 6,
+          "endColumn": 15
+        }
       }
     },
    {
@@ -36,8 +42,8 @@
         "message": "Failure - some error message",
         "filePath": "src/employee.js",
         "textRange": {
-          "startLine": 13,
-          "endLine": 13,
+          "startLine": 19,
+          "endLine": 21,
           "startColumn": 6,
           "endColumn": 15
         }
