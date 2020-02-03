@@ -19,6 +19,22 @@
     },
    {
       "engineId": "vmw184.ccs.nl",
+      "ruleId": "TEK_IS_Rule_2 -- Scan for disable steps",
+      "severity": "CRITICAL",
+      "type": "BUG",
+      "primaryLocation": {
+        "message": "BUG - error message",
+        "filePath": "src/employee.js",
+        "textRange": {
+          "startLine": 18,
+          "endLine": 20,
+          "startColumn": 6,
+          "endColumn": 35
+        }
+      }
+    },
+   {
+      "engineId": "vmw184.ccs.nl",
       "ruleId": "TEK_IS_Rule_3 -- Scan for disable steps",
       "severity": "MAJOR",
       "type": "VULNERABILITY",
@@ -26,13 +42,13 @@
         "message": "Failure - some error message",
         "filePath": "src/employee.js",
         "textRange": {
-          "startLine": 19,
-          "endLine": 21,
+          "startLine": 15,
+          "endLine": 15,
           "startColumn": 6,
           "endColumn": 15
         }
       },
-      "effortMinutes": 5
+      "effortMinutes": 10
     }
 
   ]
