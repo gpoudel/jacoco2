@@ -50,6 +50,23 @@
         }
       },
       "effortMinutes": 10
-    }      
+    },
+    {
+      "engineId": "ccs2",
+      "ruleId": "TEK_IS_Rule_4 - Scan for disable steps",
+      "severity": "MAJOR",
+      "type": "VULNERABILITY",
+      "primaryLocation": {
+        "message": "VULNERABILITY message",
+        "filePath": "src/employee.js",
+        "textRange": {
+          "startLine": 16,
+          "endLine": 17,
+          "startColumn": 6,
+          "endColumn": 40
+        }
+      },
+      "effortMinutes": 10
+    }    
   ]
 }
