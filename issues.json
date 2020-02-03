@@ -40,7 +40,7 @@
     "type" : "Scan for disable steps",
     "primaryLocation" : {
       "message" : "Failure",
-      "filePath" : "absagent"
+      "filePath" : "src/employee.js"
     }
   }
   ]
