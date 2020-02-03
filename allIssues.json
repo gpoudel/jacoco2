@@ -16,23 +16,6 @@
         }
       },
       "effortMinutes": 20
-    },
-    {
-      "engineId": "vmw184.ccs.nl",
-      "ruleId": "TEK_IS_Rule_1 - Scan for disable steps",
-      "severity": "INFO",
-      "type": "CODE_SMELL",
-      "primaryLocation": {
-        "message": "another error message",
-        "filePath": "src/employee.js",
-        "textRange": {
-          "startLine": 20,
-          "endLine": 22,
-          "startColumn": 16,
-          "endColumn": 25
-        }
-      },
-      "effortMinutes": 10
-    }
+    },    
   ]
 }
