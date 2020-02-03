@@ -23,7 +23,7 @@
       "severity": "INFO",
       "type": "CODE_SMELL",
       "primaryLocation": {
-        "message": "Failure - some error message",
+        "message": "another error message",
         "filePath": "src/employee.js",
         "textRange": {
           "startLine": 20,
