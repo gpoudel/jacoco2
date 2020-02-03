@@ -21,7 +21,7 @@
       "engineId": "vmw184.ccs.nl",
       "ruleId": "TEK_IS_Rule_1 - Scan for disable steps",
       "severity": "CRITICAL",
-      "type": "VULNERABILITY",
+      "type": "BUG",
       "primaryLocation": {
         "message": "Another error message",
         "filePath": "src/employee.js",
