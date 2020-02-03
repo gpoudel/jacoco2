@@ -35,7 +35,7 @@
       "effortMinutes": 10
     },
     {
-       "engineId": "ccs",
+      "engineId": "ccs",
       "ruleId": "TEK_IS_Rule_3 - Scan for disable steps",
       "severity": "MAJOR",
       "type": "VULNERABILITY",
@@ -44,7 +44,7 @@
         "filePath": "src/employee.js",
         "textRange": {
           "startLine": 25,
-          "endLine": 17,
+          "endLine": 25,
           "startColumn": 6,
           "endColumn": 15
         }
