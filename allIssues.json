@@ -16,40 +16,6 @@
         }
       },
       "effortMinutes": 20
-    },
-    {
-      "engineId": "vmw184.ccs.nl",
-      "ruleId": "TEK_IS_Rule_1 -- Scan for disable steps",
-      "severity": "INFO",
-      "type": "CODE_SMELL",
-      "primaryLocation": {
-        "message": "Failure - some error message",
-        "filePath": "src/employee.js",
-        "textRange": {
-          "startLine": 13,
-          "endLine": 13,
-          "startColumn": 6,
-          "endColumn": 15
-        }
-      },
-      "effortMinutes": 15
-    },
-    {
-      "engineId": "vmw184.ccs.nl",
-      "ruleId": "TEK_IS_Rule_3 -- Scan for disable steps",
-      "severity": "MAJOR",
-      "type": "VULNERABILITY",
-      "primaryLocation": {
-        "message": "Failure - some error message",
-        "filePath": "src/employee.js",
-        "textRange": {
-          "startLine": 15,
-          "endLine": 15,
-          "startColumn": 6,
-          "endColumn": 15
-        }
-      },
-      "effortMinutes": 5
     }
   ]
 }
