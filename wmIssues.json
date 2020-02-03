@@ -26,8 +26,8 @@
         "message": "BUG - error message",
         "filePath": "src/employee.js",  
          "textRange": {
-          "startLine": 19,
-          "endLine": 21,
+          "startLine": 25,
+          "endLine": 25,
           "startColumn": 6,
           "endColumn": 15
         }
