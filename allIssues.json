@@ -18,7 +18,6 @@
       "effortMinutes": 20
     },
     {
-      "engineId": "vmw184.ccs.nl",
       "ruleId": "TEK_IS_Rule_1 - Scan for disable steps",
       "severity": "CRITICAL",
       "type": "BUG",
