@@ -20,8 +20,8 @@
     {
       "engineId": "vmw184.ccs.nl",
       "ruleId": "TEK_IS_Rule_1 - Scan for disable steps",
-      "severity": "INFO",
-      "type": "CODE_SMELL",
+      "severity": "CRITICAL",
+      "type": "VULNERABILITY",
       "primaryLocation": {
         "message": "Another error message",
         "filePath": "src/employee.js",
