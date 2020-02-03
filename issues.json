@@ -25,6 +25,23 @@
         "message": "Storing employee religion is forbidden",
         "filePath": "src/employee.js",
         "textRange": {
+            "startLine": 19,
+            "endLine": 19,
+            "startColumn": 4,
+            "endColumn": 10
+        },
+        "effortMinutes": 5
+      }
+    },
+    {
+      "engineId": "fair-employer",
+      "ruleId": "religion-forbidden",
+      "severity": "CRITICAL",
+      "type": "CODE_SMELL",
+      "primaryLocation": {
+        "message": "Storing employee religion is forbidden",
+        "filePath": "src/employee.js",
+        "textRange": {
             "startLine": 25,
             "endLine": 25,
             "startColumn": 4,
