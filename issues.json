@@ -17,12 +17,12 @@
       "effortMinutes": 20
     },
     {
-      "engineId": "fair-employer",
-      "ruleId": "religion-forbidden",
+      "engineId": "vmw184.ccs.nl",
+      "ruleId": "webmethods TEST",
       "severity": "CRITICAL",
       "type": "CODE_SMELL",
       "primaryLocation": {
-        "message": "Storing employee religion is forbidden",
+        "message": "Webmethods error message",
         "filePath": "src/employee.js",
         "textRange": {
             "startLine": 19,
