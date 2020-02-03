@@ -18,6 +18,7 @@
       "effortMinutes": 20
     },
     {
+       "engineId": "jpt",
       "ruleId": "TEK_IS_Rule_1 - Scan for disable steps",
       "severity": "CRITICAL",
       "type": "BUG",
