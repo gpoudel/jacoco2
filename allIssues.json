@@ -57,7 +57,7 @@
       "severity": "MAJOR",
       "type": "VULNERABILITY",
       "primaryLocation": {
-        "message": "VULNERABILITY message",
+        "message": "message can not be same !! ",
         "filePath": "src/employee.js",
         "textRange": {
           "startLine": 16,
