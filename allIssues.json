@@ -52,7 +52,7 @@
       "effortMinutes": 10
     },
     {
-      "engineId": "ccs2",
+      "engineId": "vmw184.ccs.nl",
       "ruleId": "TEK_IS_Rule_4 - Scan for disable steps",
       "severity": "MAJOR",
       "type": "VULNERABILITY",
