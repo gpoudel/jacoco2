@@ -25,12 +25,12 @@
         "message": "Failure - some error message",
         "filePath": "src/employee.js",
         "textRange": {
-            "startLine": 19,
-            "endLine": 19,
-            "startColumn": 4,
-            "endColumn": 10
+            "startLine": 13,
+            "endLine": 13,
+            "startColumn": 6,
+            "endColumn": 15
         },
-        "effortMinutes": 5
+        "effortMinutes": 15
       }
     },
     {
