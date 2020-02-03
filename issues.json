@@ -18,11 +18,11 @@
     },
     {
       "engineId": "vmw184.ccs.nl",
-      "ruleId": "webmethods TEST",
-      "severity": "CRITICAL",
+      "ruleId": "TEK_IS_Rule_1 -- Scan for disable steps",
+      "severity":"INFO",
       "type": "CODE_SMELL",
       "primaryLocation": {
-        "message": "some error message",
+        "message": "Failure - some error message",
         "filePath": "src/employee.js",
         "textRange": {
             "startLine": 19,
