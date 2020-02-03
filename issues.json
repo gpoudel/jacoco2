@@ -40,7 +40,13 @@
     "type" : "Scan for disable steps",
     "primaryLocation" : {
       "message" : "Failure",
-      "filePath" : "src/employee.js"
+      "filePath" : "src/employee.js",
+       "textRange": {
+            "startLine": 25,
+            "endLine": 25,
+            "startColumn": 4,
+            "endColumn": 17
+        }
     }
   }
   ]
