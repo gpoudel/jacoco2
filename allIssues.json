@@ -58,13 +58,7 @@
       "type": "VULNERABILITY",
       "primaryLocation": {
         "message": "message can not be same !! ",
-        "filePath": "src/employee.js",
-        "textRange": {
-          "startLine": 16,
-          "endLine": 16,
-          "startColumn": 6,
-          "endColumn": 40
-        }
+        "filePath": "src/employee.js"
       }
     }    
   ]
