@@ -22,7 +22,7 @@
       "severity": "CRITICAL",
       "type": "CODE_SMELL",
       "primaryLocation": {
-        "message": "Webmethods error message",
+        "message": "some error message",
         "filePath": "src/employee.js",
         "textRange": {
             "startLine": 19,
