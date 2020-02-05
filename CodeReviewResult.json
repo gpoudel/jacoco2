@@ -7,13 +7,7 @@
     "type" : "CODE_SMELL",
     "primaryLocation" : {
       "message" : "Failure:Evaluate Stateless property",
-      "filePath" : "src/employee.js",
-      "textRange" : {
-        "startLine" : "0",
-        "endLine" : "0",
-        "startColumn" : "0",
-        "endColumn" : "0"
-      }
+      "filePath" : "src/employee.js"
     },
     "effortMinutes" : "30"
   }, {
@@ -23,13 +17,7 @@
     "type" : "CODE_SMELL",
     "primaryLocation" : {
       "message" : "Failure:Evaluate Stateless property",
-      "filePath" : "src/employee.js",
-      "textRange" : {
-        "startLine" : "0",
-        "endLine" : "0",
-        "startColumn" : "0",
-        "endColumn" : "0"
-      }
+      "filePath" : "src/employee.js"
     },
     "effortMinutes" : "30"
   }
