@@ -7,7 +7,7 @@
     "type" : "CODE_SMELL",
     "primaryLocation" : {
       "message" : "Failure:Evaluate Stateless property",
-      "filePath" : "src/employee.js"
+      "filePath" : "util.rcip.utils.services.flow:buildNSPrefixFromXSDSource"
     },
     "effortMinutes" : "30"
   }, {
@@ -17,7 +17,7 @@
     "type" : "CODE_SMELL",
     "primaryLocation" : {
       "message" : "Failure:Evaluate Stateless property",
-      "filePath" : "src/employee.js"
+      "filePath" : "util.rcip.utils.services.flow:buildNSPrefixFromXSDSource"
     },
     "effortMinutes" : "30"
   }
