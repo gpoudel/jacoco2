@@ -7,7 +7,7 @@
     "type" : "CODE_SMELL",
     "primaryLocation" : {
       "message" : "Failure:Evaluate Stateless property",
-      "filePath" : "util.rcip.utils.services.flow:buildNSPrefixFromXSDSource",
+      "filePath" : "src/employee.js",
       "textRange" : {
         "startLine" : "0",
         "endLine" : "0",
@@ -23,7 +23,7 @@
     "type" : "CODE_SMELL",
     "primaryLocation" : {
       "message" : "Failure:Evaluate Stateless property",
-      "filePath" : "util.rcip.utils.services.flow:buildSources",
+      "filePath" : "src/employee.js",
       "textRange" : {
         "startLine" : "0",
         "endLine" : "0",
