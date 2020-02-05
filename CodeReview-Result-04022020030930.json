@@ -1,0 +1,691 @@
+{
+  "issues" : [ {
+    "engineId" : "vmw184.ccs.nl",
+    "ruleId" : "TEK_IS_Rule_11 -- Evaluate Stateless property - true",
+    "severity" : "INFO",
+    "type" : "CODE_SMELL",
+    "primaryLocation" : {
+      "message" : "Failure:Evaluate Stateless property",
+      "filePath" : "util.rcip.utils.services.flow:buildNSPrefixFromXSDSource",
+      "textRange" : {
+        "startLine" : "0",
+        "endLine" : "0",
+        "startColumn" : "0",
+        "endColumn" : "0"
+      }
+    },
+    "effortMinutes" : "30"
+  }, {
+    "engineId" : "vmw184.ccs.nl",
+    "ruleId" : "TEK_IS_Rule_11 -- Evaluate Stateless property - true",
+    "severity" : "INFO",
+    "type" : "CODE_SMELL",
+    "primaryLocation" : {
+      "message" : "Failure:Evaluate Stateless property",
+      "filePath" : "util.rcip.utils.services.flow:buildSources",
+      "textRange" : {
+        "startLine" : "0",
+        "endLine" : "0",
+        "startColumn" : "0",
+        "endColumn" : "0"
+      }
+    },
+    "effortMinutes" : "30"
+  }, {
+    "engineId" : "vmw184.ccs.nl",
+    "ruleId" : "TEK_IS_Rule_11 -- Evaluate Stateless property - true",
+    "severity" : "INFO",
+    "type" : "CODE_SMELL",
+    "primaryLocation" : {
+      "message" : "Failure:Evaluate Stateless property",
+      "filePath" : "util.rcip.utils.services.flow:createFolder",
+      "textRange" : {
+        "startLine" : "0",
+        "endLine" : "0",
+        "startColumn" : "0",
+        "endColumn" : "0"
+      }
+    },
+    "effortMinutes" : "30"
+  }, {
+    "engineId" : "vmw184.ccs.nl",
+    "ruleId" : "TEK_IS_Rule_11 -- Evaluate Stateless property - true",
+    "severity" : "INFO",
+    "type" : "CODE_SMELL",
+    "primaryLocation" : {
+      "message" : "Failure:Evaluate Stateless property",
+      "filePath" : "util.rcip.utils.services.flow:setNodeACL",
+      "textRange" : {
+        "startLine" : "0",
+        "endLine" : "0",
+        "startColumn" : "0",
+        "endColumn" : "0"
+      }
+    },
+    "effortMinutes" : "30"
+  }, {
+    "engineId" : "vmw184.ccs.nl",
+    "ruleId" : "TEK_IS_Rule_11 -- Evaluate Stateless property - true",
+    "severity" : "INFO",
+    "type" : "CODE_SMELL",
+    "primaryLocation" : {
+      "message" : "Failure:Evaluate Stateless property",
+      "filePath" : "util.rcip.utils.services.flow:setUniversalName",
+      "textRange" : {
+        "startLine" : "0",
+        "endLine" : "0",
+        "startColumn" : "0",
+        "endColumn" : "0"
+      }
+    },
+    "effortMinutes" : "30"
+  }, {
+    "engineId" : "vmw184.ccs.nl",
+    "ruleId" : "TEK_IS_Rule_21 -- Validate Try/Catch Sequence at Service Level",
+    "severity" : "INFO",
+    "type" : "CODE_SMELL",
+    "primaryLocation" : {
+      "message" : "Failure:Validate Try/Catch Sequence at Service Level",
+      "filePath" : "res.service:getEmployee",
+      "textRange" : {
+        "startLine" : "0",
+        "endLine" : "0",
+        "startColumn" : "0",
+        "endColumn" : "0"
+      }
+    },
+    "effortMinutes" : "30"
+  }, {
+    "engineId" : "vmw184.ccs.nl",
+    "ruleId" : "TEK_IS_Rule_21 -- Validate Try/Catch Sequence at Service Level",
+    "severity" : "INFO",
+    "type" : "CODE_SMELL",
+    "primaryLocation" : {
+      "message" : "Failure:Validate Try/Catch Sequence at Service Level",
+      "filePath" : "test.ri.anva.v01.mapping:party",
+      "textRange" : {
+        "startLine" : "0",
+        "endLine" : "0",
+        "startColumn" : "0",
+        "endColumn" : "0"
+      }
+    },
+    "effortMinutes" : "30"
+  }, {
+    "engineId" : "vmw184.ccs.nl",
+    "ruleId" : "TEK_IS_Rule_21 -- Validate Try/Catch Sequence at Service Level",
+    "severity" : "INFO",
+    "type" : "CODE_SMELL",
+    "primaryLocation" : {
+      "message" : "Failure:Validate Try/Catch Sequence at Service Level",
+      "filePath" : "test.ri.anva.v01.services:absagent",
+      "textRange" : {
+        "startLine" : "0",
+        "endLine" : "0",
+        "startColumn" : "0",
+        "endColumn" : "0"
+      }
+    },
+    "effortMinutes" : "30"
+  }, {
+    "engineId" : "vmw184.ccs.nl",
+    "ruleId" : "TEK_IS_Rule_21 -- Validate Try/Catch Sequence at Service Level",
+    "severity" : "INFO",
+    "type" : "CODE_SMELL",
+    "primaryLocation" : {
+      "message" : "Failure:Validate Try/Catch Sequence at Service Level",
+      "filePath" : "test.ri.anva.v01.services:javaTest",
+      "textRange" : {
+        "startLine" : "0",
+        "endLine" : "0",
+        "startColumn" : "0",
+        "endColumn" : "0"
+      }
+    },
+    "effortMinutes" : "30"
+  }, {
+    "engineId" : "vmw184.ccs.nl",
+    "ruleId" : "TEK_IS_Rule_21 -- Validate Try/Catch Sequence at Service Level",
+    "severity" : "INFO",
+    "type" : "CODE_SMELL",
+    "primaryLocation" : {
+      "message" : "Failure:Validate Try/Catch Sequence at Service Level",
+      "filePath" : "test:absagent",
+      "textRange" : {
+        "startLine" : "0",
+        "endLine" : "0",
+        "startColumn" : "0",
+        "endColumn" : "0"
+      }
+    },
+    "effortMinutes" : "30"
+  }, {
+    "engineId" : "vmw184.ccs.nl",
+    "ruleId" : "TEK_IS_Rule_21 -- Validate Try/Catch Sequence at Service Level",
+    "severity" : "INFO",
+    "type" : "CODE_SMELL",
+    "primaryLocation" : {
+      "message" : "Failure:Validate Try/Catch Sequence at Service Level",
+      "filePath" : "util.rcip.utils.services.flow:createPackage",
+      "textRange" : {
+        "startLine" : "0",
+        "endLine" : "0",
+        "startColumn" : "0",
+        "endColumn" : "0"
+      }
+    },
+    "effortMinutes" : "30"
+  }, {
+    "engineId" : "vmw184.ccs.nl",
+    "ruleId" : "TEK_IS_Rule_21 -- Validate Try/Catch Sequence at Service Level",
+    "severity" : "INFO",
+    "type" : "CODE_SMELL",
+    "primaryLocation" : {
+      "message" : "Failure:Validate Try/Catch Sequence at Service Level",
+      "filePath" : "util.rcip.utils.services.flow:generateConsumersGenerationConfiguration",
+      "textRange" : {
+        "startLine" : "0",
+        "endLine" : "0",
+        "startColumn" : "0",
+        "endColumn" : "0"
+      }
+    },
+    "effortMinutes" : "30"
+  }, {
+    "engineId" : "vmw184.ccs.nl",
+    "ruleId" : "TEK_IS_Rule_21 -- Validate Try/Catch Sequence at Service Level",
+    "severity" : "INFO",
+    "type" : "CODE_SMELL",
+    "primaryLocation" : {
+      "message" : "Failure:Validate Try/Catch Sequence at Service Level",
+      "filePath" : "util.rcip.utils.services.flow:getAllPackageNodes",
+      "textRange" : {
+        "startLine" : "0",
+        "endLine" : "0",
+        "startColumn" : "0",
+        "endColumn" : "0"
+      }
+    },
+    "effortMinutes" : "30"
+  }, {
+    "engineId" : "vmw184.ccs.nl",
+    "ruleId" : "TEK_IS_Rule_21 -- Validate Try/Catch Sequence at Service Level",
+    "severity" : "INFO",
+    "type" : "CODE_SMELL",
+    "primaryLocation" : {
+      "message" : "Failure:Validate Try/Catch Sequence at Service Level",
+      "filePath" : "util.rcip.utils.services.flow:getNode",
+      "textRange" : {
+        "startLine" : "0",
+        "endLine" : "0",
+        "startColumn" : "0",
+        "endColumn" : "0"
+      }
+    },
+    "effortMinutes" : "30"
+  }, {
+    "engineId" : "vmw184.ccs.nl",
+    "ruleId" : "TEK_IS_Rule_21 -- Validate Try/Catch Sequence at Service Level",
+    "severity" : "INFO",
+    "type" : "CODE_SMELL",
+    "primaryLocation" : {
+      "message" : "Failure:Validate Try/Catch Sequence at Service Level",
+      "filePath" : "util.rcip.utils.services.flow:packageDelete",
+      "textRange" : {
+        "startLine" : "0",
+        "endLine" : "0",
+        "startColumn" : "0",
+        "endColumn" : "0"
+      }
+    },
+    "effortMinutes" : "30"
+  }, {
+    "engineId" : "vmw184.ccs.nl",
+    "ruleId" : "TEK_IS_Rule_21 -- Validate Try/Catch Sequence at Service Level",
+    "severity" : "INFO",
+    "type" : "CODE_SMELL",
+    "primaryLocation" : {
+      "message" : "Failure:Validate Try/Catch Sequence at Service Level",
+      "filePath" : "util.rcip.utils.services.flow:putNode",
+      "textRange" : {
+        "startLine" : "0",
+        "endLine" : "0",
+        "startColumn" : "0",
+        "endColumn" : "0"
+      }
+    },
+    "effortMinutes" : "30"
+  }, {
+    "engineId" : "vmw184.ccs.nl",
+    "ruleId" : "TEK_IS_Rule_21 -- Validate Try/Catch Sequence at Service Level",
+    "severity" : "INFO",
+    "type" : "CODE_SMELL",
+    "primaryLocation" : {
+      "message" : "Failure:Validate Try/Catch Sequence at Service Level",
+      "filePath" : "util.rcip.utils.services.flow:setNodeACL",
+      "textRange" : {
+        "startLine" : "0",
+        "endLine" : "0",
+        "startColumn" : "0",
+        "endColumn" : "0"
+      }
+    },
+    "effortMinutes" : "30"
+  }, {
+    "engineId" : "vmw184.ccs.nl",
+    "ruleId" : "TEK_IS_Rule_21 -- Validate Try/Catch Sequence at Service Level",
+    "severity" : "INFO",
+    "type" : "CODE_SMELL",
+    "primaryLocation" : {
+      "message" : "Failure:Validate Try/Catch Sequence at Service Level",
+      "filePath" : "util.rcip.utils.services.flow:setUniversalName",
+      "textRange" : {
+        "startLine" : "0",
+        "endLine" : "0",
+        "startColumn" : "0",
+        "endColumn" : "0"
+      }
+    },
+    "effortMinutes" : "30"
+  }, {
+    "engineId" : "vmw184.ccs.nl",
+    "ruleId" : "TEK_IS_Rule_21 -- Validate Try/Catch Sequence at Service Level",
+    "severity" : "INFO",
+    "type" : "CODE_SMELL",
+    "primaryLocation" : {
+      "message" : "Failure:Validate Try/Catch Sequence at Service Level",
+      "filePath" : "util:createXSD",
+      "textRange" : {
+        "startLine" : "0",
+        "endLine" : "0",
+        "startColumn" : "0",
+        "endColumn" : "0"
+      }
+    },
+    "effortMinutes" : "30"
+  }, {
+    "engineId" : "vmw184.ccs.nl",
+    "ruleId" : "TEK_IS_Rule_21 -- Validate Try/Catch Sequence at Service Level",
+    "severity" : "INFO",
+    "type" : "CODE_SMELL",
+    "primaryLocation" : {
+      "message" : "Failure:Validate Try/Catch Sequence at Service Level",
+      "filePath" : "util:getClassName",
+      "textRange" : {
+        "startLine" : "0",
+        "endLine" : "0",
+        "startColumn" : "0",
+        "endColumn" : "0"
+      }
+    },
+    "effortMinutes" : "30"
+  }, {
+    "engineId" : "vmw184.ccs.nl",
+    "ruleId" : "TEK_IS_Rule_21 -- Validate Try/Catch Sequence at Service Level",
+    "severity" : "INFO",
+    "type" : "CODE_SMELL",
+    "primaryLocation" : {
+      "message" : "Failure:Validate Try/Catch Sequence at Service Level",
+      "filePath" : "util:getDocumentName",
+      "textRange" : {
+        "startLine" : "0",
+        "endLine" : "0",
+        "startColumn" : "0",
+        "endColumn" : "0"
+      }
+    },
+    "effortMinutes" : "30"
+  }, {
+    "engineId" : "vmw184.ccs.nl",
+    "ruleId" : "TEK_IS_Rule_21 -- Validate Try/Catch Sequence at Service Level",
+    "severity" : "INFO",
+    "type" : "CODE_SMELL",
+    "primaryLocation" : {
+      "message" : "Failure:Validate Try/Catch Sequence at Service Level",
+      "filePath" : "rcip.init.service:addCache",
+      "textRange" : {
+        "startLine" : "0",
+        "endLine" : "0",
+        "startColumn" : "0",
+        "endColumn" : "0"
+      }
+    },
+    "effortMinutes" : "30"
+  }, {
+    "engineId" : "vmw184.ccs.nl",
+    "ruleId" : "TEK_IS_Rule_21 -- Validate Try/Catch Sequence at Service Level",
+    "severity" : "INFO",
+    "type" : "CODE_SMELL",
+    "primaryLocation" : {
+      "message" : "Failure:Validate Try/Catch Sequence at Service Level",
+      "filePath" : "rcip.init.service:getCaches",
+      "textRange" : {
+        "startLine" : "0",
+        "endLine" : "0",
+        "startColumn" : "0",
+        "endColumn" : "0"
+      }
+    },
+    "effortMinutes" : "30"
+  }, {
+    "engineId" : "vmw184.ccs.nl",
+    "ruleId" : "TEK_IS_Rule_21 -- Validate Try/Catch Sequence at Service Level",
+    "severity" : "INFO",
+    "type" : "CODE_SMELL",
+    "primaryLocation" : {
+      "message" : "Failure:Validate Try/Catch Sequence at Service Level",
+      "filePath" : "rcip.init.service:removeCache",
+      "textRange" : {
+        "startLine" : "0",
+        "endLine" : "0",
+        "startColumn" : "0",
+        "endColumn" : "0"
+      }
+    },
+    "effortMinutes" : "30"
+  }, {
+    "engineId" : "vmw184.ccs.nl",
+    "ruleId" : "TEK_IS_Rule_21 -- Validate Try/Catch Sequence at Service Level",
+    "severity" : "INFO",
+    "type" : "CODE_SMELL",
+    "primaryLocation" : {
+      "message" : "Failure:Validate Try/Catch Sequence at Service Level",
+      "filePath" : "rcip.init.utils:aclAssignToFlows",
+      "textRange" : {
+        "startLine" : "0",
+        "endLine" : "0",
+        "startColumn" : "0",
+        "endColumn" : "0"
+      }
+    },
+    "effortMinutes" : "30"
+  }, {
+    "engineId" : "vmw184.ccs.nl",
+    "ruleId" : "TEK_IS_Rule_21 -- Validate Try/Catch Sequence at Service Level",
+    "severity" : "INFO",
+    "type" : "CODE_SMELL",
+    "primaryLocation" : {
+      "message" : "Failure:Validate Try/Catch Sequence at Service Level",
+      "filePath" : "rcip.init.v01.services:initRcip",
+      "textRange" : {
+        "startLine" : "0",
+        "endLine" : "0",
+        "startColumn" : "0",
+        "endColumn" : "0"
+      }
+    },
+    "effortMinutes" : "30"
+  }, {
+    "engineId" : "vmw184.ccs.nl",
+    "ruleId" : "TEK_IS_Rule_21 -- Validate Try/Catch Sequence at Service Level",
+    "severity" : "INFO",
+    "type" : "CODE_SMELL",
+    "primaryLocation" : {
+      "message" : "Failure:Validate Try/Catch Sequence at Service Level",
+      "filePath" : "rcip.init.v01.services:runStartupServices",
+      "textRange" : {
+        "startLine" : "0",
+        "endLine" : "0",
+        "startColumn" : "0",
+        "endColumn" : "0"
+      }
+    },
+    "effortMinutes" : "30"
+  }, {
+    "engineId" : "vmw184.ccs.nl",
+    "ruleId" : "TEK_IS_Rule_21 -- Validate Try/Catch Sequence at Service Level",
+    "severity" : "INFO",
+    "type" : "CODE_SMELL",
+    "primaryLocation" : {
+      "message" : "Failure:Validate Try/Catch Sequence at Service Level",
+      "filePath" : "rcip.init.v01.utils:connectionInitializer",
+      "textRange" : {
+        "startLine" : "0",
+        "endLine" : "0",
+        "startColumn" : "0",
+        "endColumn" : "0"
+      }
+    },
+    "effortMinutes" : "30"
+  }, {
+    "engineId" : "vmw184.ccs.nl",
+    "ruleId" : "TEK_IS_Rule_21 -- Validate Try/Catch Sequence at Service Level",
+    "severity" : "INFO",
+    "type" : "CODE_SMELL",
+    "primaryLocation" : {
+      "message" : "Failure:Validate Try/Catch Sequence at Service Level",
+      "filePath" : "rcip.init.v01.utils:createGlobalVariablesFromFile",
+      "textRange" : {
+        "startLine" : "0",
+        "endLine" : "0",
+        "startColumn" : "0",
+        "endColumn" : "0"
+      }
+    },
+    "effortMinutes" : "30"
+  }, {
+    "engineId" : "vmw184.ccs.nl",
+    "ruleId" : "TEK_IS_Rule_21 -- Validate Try/Catch Sequence at Service Level",
+    "severity" : "INFO",
+    "type" : "CODE_SMELL",
+    "primaryLocation" : {
+      "message" : "Failure:Validate Try/Catch Sequence at Service Level",
+      "filePath" : "rcip.init.v01.utils:createWSConsumerAliases",
+      "textRange" : {
+        "startLine" : "0",
+        "endLine" : "0",
+        "startColumn" : "0",
+        "endColumn" : "0"
+      }
+    },
+    "effortMinutes" : "30"
+  }, {
+    "engineId" : "vmw184.ccs.nl",
+    "ruleId" : "TEK_IS_Rule_21 -- Validate Try/Catch Sequence at Service Level",
+    "severity" : "INFO",
+    "type" : "CODE_SMELL",
+    "primaryLocation" : {
+      "message" : "Failure:Validate Try/Catch Sequence at Service Level",
+      "filePath" : "rcip.init.v01.utils:initJWT",
+      "textRange" : {
+        "startLine" : "0",
+        "endLine" : "0",
+        "startColumn" : "0",
+        "endColumn" : "0"
+      }
+    },
+    "effortMinutes" : "30"
+  }, {
+    "engineId" : "vmw184.ccs.nl",
+    "ruleId" : "TEK_IS_Rule_21 -- Validate Try/Catch Sequence at Service Level",
+    "severity" : "INFO",
+    "type" : "CODE_SMELL",
+    "primaryLocation" : {
+      "message" : "Failure:Validate Try/Catch Sequence at Service Level",
+      "filePath" : "rcip.init.v01.utils:initRcipACLs",
+      "textRange" : {
+        "startLine" : "0",
+        "endLine" : "0",
+        "startColumn" : "0",
+        "endColumn" : "0"
+      }
+    },
+    "effortMinutes" : "30"
+  }, {
+    "engineId" : "vmw184.ccs.nl",
+    "ruleId" : "TEK_IS_Rule_21 -- Validate Try/Catch Sequence at Service Level",
+    "severity" : "INFO",
+    "type" : "CODE_SMELL",
+    "primaryLocation" : {
+      "message" : "Failure:Validate Try/Catch Sequence at Service Level",
+      "filePath" : "rcip.init.v01.utils:loadACLs",
+      "textRange" : {
+        "startLine" : "0",
+        "endLine" : "0",
+        "startColumn" : "0",
+        "endColumn" : "0"
+      }
+    },
+    "effortMinutes" : "30"
+  }, {
+    "engineId" : "vmw184.ccs.nl",
+    "ruleId" : "TEK_IS_Rule_21 -- Validate Try/Catch Sequence at Service Level",
+    "severity" : "INFO",
+    "type" : "CODE_SMELL",
+    "primaryLocation" : {
+      "message" : "Failure:Validate Try/Catch Sequence at Service Level",
+      "filePath" : "rcip.init.v01.utils:loadRoutingMapToCache",
+      "textRange" : {
+        "startLine" : "0",
+        "endLine" : "0",
+        "startColumn" : "0",
+        "endColumn" : "0"
+      }
+    },
+    "effortMinutes" : "30"
+  }, {
+    "engineId" : "vmw184.ccs.nl",
+    "ruleId" : "TEK_IS_Rule_21 -- Validate Try/Catch Sequence at Service Level",
+    "severity" : "INFO",
+    "type" : "CODE_SMELL",
+    "primaryLocation" : {
+      "message" : "Failure:Validate Try/Catch Sequence at Service Level",
+      "filePath" : "rcip.init.v01.utils:registerSoapHandlers",
+      "textRange" : {
+        "startLine" : "0",
+        "endLine" : "0",
+        "startColumn" : "0",
+        "endColumn" : "0"
+      }
+    },
+    "effortMinutes" : "30"
+  }, {
+    "engineId" : "vmw184.ccs.nl",
+    "ruleId" : "TEK_IS_Rule_21 -- Validate Try/Catch Sequence at Service Level",
+    "severity" : "INFO",
+    "type" : "CODE_SMELL",
+    "primaryLocation" : {
+      "message" : "Failure:Validate Try/Catch Sequence at Service Level",
+      "filePath" : "rcip.init.v01.utils:setACL",
+      "textRange" : {
+        "startLine" : "0",
+        "endLine" : "0",
+        "startColumn" : "0",
+        "endColumn" : "0"
+      }
+    },
+    "effortMinutes" : "30"
+  }, {
+    "engineId" : "vmw184.ccs.nl",
+    "ruleId" : "TEK_IS_Rule_21 -- Validate Try/Catch Sequence at Service Level",
+    "severity" : "INFO",
+    "type" : "CODE_SMELL",
+    "primaryLocation" : {
+      "message" : "Failure:Validate Try/Catch Sequence at Service Level",
+      "filePath" : "rcip.init:createACLs",
+      "textRange" : {
+        "startLine" : "0",
+        "endLine" : "0",
+        "startColumn" : "0",
+        "endColumn" : "0"
+      }
+    },
+    "effortMinutes" : "30"
+  }, {
+    "engineId" : "vmw184.ccs.nl",
+    "ruleId" : "TEK_IS_Rule_21 -- Validate Try/Catch Sequence at Service Level",
+    "severity" : "INFO",
+    "type" : "CODE_SMELL",
+    "primaryLocation" : {
+      "message" : "Failure:Validate Try/Catch Sequence at Service Level",
+      "filePath" : "rcip.init:createActiveTransfer",
+      "textRange" : {
+        "startLine" : "0",
+        "endLine" : "0",
+        "startColumn" : "0",
+        "endColumn" : "0"
+      }
+    },
+    "effortMinutes" : "30"
+  }, {
+    "engineId" : "vmw184.ccs.nl",
+    "ruleId" : "TEK_IS_Rule_21 -- Validate Try/Catch Sequence at Service Level",
+    "severity" : "INFO",
+    "type" : "CODE_SMELL",
+    "primaryLocation" : {
+      "message" : "Failure:Validate Try/Catch Sequence at Service Level",
+      "filePath" : "rcip.init:enableAllTriggers",
+      "textRange" : {
+        "startLine" : "0",
+        "endLine" : "0",
+        "startColumn" : "0",
+        "endColumn" : "0"
+      }
+    },
+    "effortMinutes" : "30"
+  }, {
+    "engineId" : "vmw184.ccs.nl",
+    "ruleId" : "TEK_IS_Rule_21 -- Validate Try/Catch Sequence at Service Level",
+    "severity" : "INFO",
+    "type" : "CODE_SMELL",
+    "primaryLocation" : {
+      "message" : "Failure:Validate Try/Catch Sequence at Service Level",
+      "filePath" : "rcip.init:importSecurityConfig",
+      "textRange" : {
+        "startLine" : "0",
+        "endLine" : "0",
+        "startColumn" : "0",
+        "endColumn" : "0"
+      }
+    },
+    "effortMinutes" : "30"
+  }, {
+    "engineId" : "vmw184.ccs.nl",
+    "ruleId" : "TEK_IS_Rule_21 -- Validate Try/Catch Sequence at Service Level",
+    "severity" : "INFO",
+    "type" : "CODE_SMELL",
+    "primaryLocation" : {
+      "message" : "Failure:Validate Try/Catch Sequence at Service Level",
+      "filePath" : "rcip.init:initEnvinronmentConfiguration",
+      "textRange" : {
+        "startLine" : "0",
+        "endLine" : "0",
+        "startColumn" : "0",
+        "endColumn" : "0"
+      }
+    },
+    "effortMinutes" : "30"
+  }, {
+    "engineId" : "vmw184.ccs.nl",
+    "ruleId" : "TEK_IS_Rule_21 -- Validate Try/Catch Sequence at Service Level",
+    "severity" : "INFO",
+    "type" : "CODE_SMELL",
+    "primaryLocation" : {
+      "message" : "Failure:Validate Try/Catch Sequence at Service Level",
+      "filePath" : "rcip.init:initJWT",
+      "textRange" : {
+        "startLine" : "0",
+        "endLine" : "0",
+        "startColumn" : "0",
+        "endColumn" : "0"
+      }
+    },
+    "effortMinutes" : "30"
+  }, {
+    "engineId" : "vmw184.ccs.nl",
+    "ruleId" : "TEK_IS_Rule_21 -- Validate Try/Catch Sequence at Service Level",
+    "severity" : "INFO",
+    "type" : "CODE_SMELL",
+    "primaryLocation" : {
+      "message" : "Failure:Validate Try/Catch Sequence at Service Level",
+      "filePath" : "rcip.init:unregisterHandlers",
+      "textRange" : {
+        "startLine" : "0",
+        "endLine" : "0",
+        "startColumn" : "0",
+        "endColumn" : "0"
+      }
+    },
+    "effortMinutes" : "30"
+  } ]
+}
