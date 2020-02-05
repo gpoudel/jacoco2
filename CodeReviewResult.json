@@ -1,0 +1,37 @@
+{
+  "issues" : [ 
+  {
+    "engineId" : "vmw184.ccs.nl",
+    "ruleId" : "TEK_IS_Rule_11 -- Evaluate Stateless property - true",
+    "severity" : "INFO",
+    "type" : "CODE_SMELL",
+    "primaryLocation" : {
+      "message" : "Failure:Evaluate Stateless property",
+      "filePath" : "util.rcip.utils.services.flow:buildNSPrefixFromXSDSource",
+      "textRange" : {
+        "startLine" : "0",
+        "endLine" : "0",
+        "startColumn" : "0",
+        "endColumn" : "0"
+      }
+    },
+    "effortMinutes" : "30"
+  }, {
+    "engineId" : "vmw184.ccs.nl",
+    "ruleId" : "TEK_IS_Rule_11 -- Evaluate Stateless property - true",
+    "severity" : "INFO",
+    "type" : "CODE_SMELL",
+    "primaryLocation" : {
+      "message" : "Failure:Evaluate Stateless property",
+      "filePath" : "util.rcip.utils.services.flow:buildSources",
+      "textRange" : {
+        "startLine" : "0",
+        "endLine" : "0",
+        "startColumn" : "0",
+        "endColumn" : "0"
+      }
+    },
+    "effortMinutes" : "30"
+  }
+ ]
+} 
