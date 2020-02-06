@@ -20,6 +20,17 @@
       "filePath" : "src/employee.js"
     },
     "effortMinutes" : "30"
+  },
+    {
+    "engineId" : "vmw184.ccs.nl",
+    "ruleId" : "TEK_IS_Rule_21 -- Validate Try/Catch Sequence at Service Level",
+    "severity" : "INFO",
+    "type" : "CODE_SMELL",
+    "primaryLocation" : {
+      "message" : "Failure:Validate Try/Catch Sequence at Service Level",
+      "filePath" : "src/employee.js"
+    },
+    "effortMinutes" : "30"
   }
  ]
 } 
