@@ -7,7 +7,7 @@
     "type" : "CODE_SMELL",
     "primaryLocation" : {
       "message" : "Failure:Evaluate Stateless property",
-      "filePath" : "src/employee.js"
+      "filePath" : "src/webmethods_dummy.xml"
     },
     "effortMinutes" : "30"
   }, {
@@ -17,7 +17,7 @@
     "type" : "CODE_SMELL",
     "primaryLocation" : {
       "message" : "Failure:Evaluate Stateless property",
-      "filePath" : "src/employee.js"
+      "filePath" : "src/webmethods_dummy.xml"
     },
     "effortMinutes" : "30"
   },
@@ -28,7 +28,7 @@
     "type" : "CODE_SMELL",
     "primaryLocation" : {
       "message" : "Failure:Validate Try/Catch Sequence at Service Level",
-      "filePath" : "src/employee.js"
+      "filePath" : "src/webmethods_dummy.xml"
     },
     "effortMinutes" : "30"
   }, 
@@ -39,7 +39,7 @@
     "type" : "CODE_SMELL",
     "primaryLocation" : {
       "message" : "Failure:Validate Try/Catch Sequence at Service Level",
-      "filePath" : "src/employee.js"
+      "filePath" : "src/webmethods_dummy.xml"
     },
     "effortMinutes" : "30"
   }
